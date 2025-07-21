@@ -19,3 +19,8 @@ was deployed on the Raspberry Pi thus facilitating the visually
 impaired with environment navigation. Further, a Long Short
 Term Memory (LSTM) network was implemented for Visual
 Question Answering applications.
+
+
+This work has been published as a research paper in the 2021 IEEE Region 10 Conference (TENCON). 
+
+Please reach out for more info.
